@@ -1,0 +1,40 @@
+.navbar-main{
+    background-color: #FFFFFF;
+    height: 72px !important;
+    width: 
+    1440px !important;
+    padding: 0!important;
+    
+}
+.navbar-account-text{
+    font-size: 18px;
+    display: inline;
+    font-weight: 500;
+}
+.navbar-account-text span{
+    font-weight: bold;
+    color: #2F6CE5;
+}
+#searchId{
+    width: 360px !important;
+    /* border-radius: 21px !important; */
+    /* background-color: #f8f1f1 !important; */
+    /* color: #2F6CE5; */
+    
+}
+
+#basic-addon1{
+    border-radius: 21px 0 0 21px !important;
+    border-right: 0 !important;
+    background-color: #F2F2F2 !important;
+}
+#input-text-place{
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 0px 21px 21px 0px !important;
+    border-left: 0 !important;
+    background-color: #F2F2F2;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #5C5C5C !important;
+  }
